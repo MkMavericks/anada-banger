@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+scipy
+pyarrow
+hmmlearn
+transformers
+torch
+finnhub-python
+python-dotenv
+streamlit
+plotly
+pytest
